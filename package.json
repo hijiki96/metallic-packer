@@ -1,0 +1,25 @@
+{
+  "name": "com.hijiki-tools.metallic-packer",
+  "displayName": "Metallic Packer",
+  "version": "0.1.0",
+  "unity": "2021.3",
+  "description": "An editor extension that packs Metalness (R) and Smoothness (A) into one map. If input is Roughness, it inverts to Smoothness.",
+  "author": {
+    "name": "hijiki96",
+    "url": "https://github.com/hijiki96"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hijiki96/metallic-packer.git"
+  },
+  "keywords": [
+    "unity",
+    "editor",
+    "texture",
+    "metallic",
+    "smoothness",
+    "roughness",
+    "packer"
+  ],
+  "license": "MIT"
+}
